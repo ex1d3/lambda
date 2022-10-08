@@ -1,3 +1,3 @@
 import os
 
-os.system("py -m pip --version")
+os.system("python3 -m pip --version")
